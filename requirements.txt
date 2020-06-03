@@ -1,0 +1,12 @@
+voila
+voila-material
+pandas
+ipywidgets
+seaborn
+plotly
+matplotlib
+numpy
+datetime
+bs4
+requests
+IPython
