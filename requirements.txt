@@ -12,3 +12,4 @@ urllib3==1.25.8
 voila==0.1.21
 voila-gridstack==0.0.8
 voila-material==0.2.5
+nbconvert==5.6.1
